@@ -7,4 +7,4 @@
 
 ## Who am I?
 
-I am a student of amirkabir university (polytechnic) and here I wish to share my projects with you.
+I am a student at amirkabir university (polytechnic) and here I wish to share my projects with you.
