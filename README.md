@@ -1,7 +1,3 @@
-Here's an updated README tailored to your GitHub profile:
-
----
-
 # 👋 Welcome to My GitHub Profile  
 
 Hi, I’m **Amirreza Behmanesh**, a software developer with a passion for creating innovative solutions. My projects range from tools for networking to Android applications, emphasizing functionality and user experience.
@@ -25,8 +21,4 @@ I’m always looking for new challenges and collaborations. Reach out if you’d
 
 - **Email**: [amirrezabsh79@gmail.com]  
 - **GitHub**: [github.com/amirrezabsh](https://github.com/amirrezabsh)
-- **Linkedin**: [linkedin.com/amirrezabsh](https://linkedin.com/amirrezabsh) 
-
----
-
-Let me know if you'd like to add specific links or descriptions for your projects!
+- **Linkedin**: [linkedin.com/amirrezabsh](https://linkedin.com/amirrezabsh)
